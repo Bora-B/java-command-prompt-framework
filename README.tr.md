@@ -1,11 +1,14 @@
 # CommandPrompt
-
-Anotasyonlarla komut satırı arayüzleri oluşturmak için geliştirilmiş, hafif ve genişletilebilir bir Java framework’üdür.  
-Metotları kolayca komutlara bağlayabilir ve özelleştirilebilir bir prompt üzerinden etkileşimli olarak çalıştırabilirsiniz.
-
 📄 Bu dokümanın [İngilizce versiyonu](README.md) da mevcuttur.
+## 🙏 Teşekkür
+
+Bu proje, Java programlama dersi kapsamında reflection konusuna örnek olarak **[Oğuz Karan](https://github.com/oguzkaran)** tarafından anlatılan uygulamadan esinlenerek geliştirilmiştir.  
+Kodların uygulaması ve geliştirilmiş hali tarafımdan yazılmış olsa da temel fikir ve mimari yaklaşım hocamın anlattığı yapıya dayanmaktadır.  
 
 ---
+
+Annotation'larla komut satırı arayüzleri oluşturmak için geliştirilmiş, hafif ve genişletilebilir bir Java framework’üdür.  
+Metotları kolayca komutlara bağlayabilir ve özelleştirilebilir bir prompt üzerinden etkileşimli olarak çalıştırabilirsiniz.
 
 ## ✨ Özellikler
 

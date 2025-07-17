@@ -1,11 +1,14 @@
 # CommandPrompt
+📄 This README is also available in [Turkish](README.tr.md)
+## 🙏 Acknowledgement
+
+This project was inspired by an example application presented by **[Oğuz Karan](https://github.com/oguzkaran)** during a Java programming course as part of the topic on reflection.  
+While the implementation and enhancements were done by me, the core idea and architectural approach are based on the structure introduced by my instructor.
+
+---
 
 A lightweight and extensible Java framework for building command-line interfaces using annotations.  
 Easily bind methods to commands and run them interactively from a customizable prompt.
-
-📄 This README is also available in [Turkish](README.tr.md)
-
----
 
 ## ✨ Features
 
