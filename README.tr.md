@@ -3,7 +3,7 @@
 Anotasyonlarla komut satırı arayüzleri oluşturmak için geliştirilmiş, hafif ve genişletilebilir bir Java framework’üdür.  
 Metotları kolayca komutlara bağlayabilir ve özelleştirilebilir bir prompt üzerinden etkileşimli olarak çalıştırabilirsiniz.
 
-📄 Bu dökümanın [🇬🇧 İngilizce versiyonu](README.md) da mevcuttur.
+📄 Bu dokümanın [İngilizce versiyonu](README.md) da mevcuttur.
 
 ---
 

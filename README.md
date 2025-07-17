@@ -3,7 +3,7 @@
 A lightweight and extensible Java framework for building command-line interfaces using annotations.  
 Easily bind methods to commands and run them interactively from a customizable prompt.
 
-📄 This README is also available in [🇹🇷 Turkish](README.tr.md)
+📄 This README is also available in [Turkish](README.tr.md)
 
 ---
 
